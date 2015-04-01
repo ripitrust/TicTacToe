@@ -1,4 +1,5 @@
-EE4483CA1
+4483
 =========
 
-NTU EE4483 CA1
+1. Binary Search
+2. Tic Tac Toe
